@@ -2,7 +2,7 @@ def test_get_helloworld():
 	assert 'hello world' == get_helloworld()
 	
 def get_helloworld():
-	print('hello world')
+	#print('hello world')
 	return 'hello world'
 	
 def main():
