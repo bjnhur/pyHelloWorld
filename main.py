@@ -3,7 +3,7 @@ def test_get_helloworld():
 	
 def get_helloworld():
 	print('hello world')
-	#return 'hello world1'
+	return 'hello world'
 	
 def main():
 	print(get_helloworld())
